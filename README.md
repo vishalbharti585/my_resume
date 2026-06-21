@@ -139,7 +139,7 @@ Currently seeking Software Development, Backend Development, Web Development, an
 
 ## 📄 Download Resume
 
-👉 **Latest Resume:** (23BCS12032_VISHAL_BHARTI.pdf)
+👉 [Latest Resume](resume/23BCS12032_VISHAL_BHARTI.pdf)
 
 ---
 
