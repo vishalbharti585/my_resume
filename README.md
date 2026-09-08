@@ -86,9 +86,6 @@ A full-stack numerical computing application for solving mathematical equations 
 🔗 **GitHub:**
 https://github.com/vishalbharti585/roots-finder-app
 
-🌐 **Live Demo:**
-https://roots-finder-app.onrender.co
-
 ---
 
 ### 🤖 Smart Robotic Waiter System
