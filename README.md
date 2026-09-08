@@ -6,6 +6,8 @@ I'm a Computer Science Engineering undergraduate with hands-on experience in **b
 
 I enjoy building practical software systems, solving problems with **Data Structures & Algorithms**, and exploring how **AI and modern backend technologies** can be used to build scalable applications.
 
+📄 **[View My Resume](./23BCS12032_VISHAL_BHARTI.pdf)**
+
 ---
 
 ## 👨‍💻 About Me
@@ -83,8 +85,7 @@ A full-stack numerical computing application for solving mathematical equations 
 * Tested the application across desktop and mobile viewports
 * Deployed the application for public access
 
-🔗 **GitHub:**
-https://github.com/vishalbharti585/roots-finder-app
+🔗 **[GitHub Repository](https://github.com/vishalbharti585/roots-finder-app)**
 
 ---
 
@@ -157,11 +158,9 @@ Aug 2023 – Present
 
 📧 **Email:** [vishalbhartiraisa@gmail.com](mailto:vishalbhartiraisa@gmail.com)
 
-💼 **LinkedIn:**
-https://linkedin.com/in/vishal-bharti-652781289
+💼 **[LinkedIn](https://linkedin.com/in/vishal-bharti-652781289)**
 
-🐙 **GitHub:**
-https://github.com/vishalbharti585
+🐙 **[GitHub](https://github.com/vishalbharti585)**
 
 ---
 
